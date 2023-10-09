@@ -2257,7 +2257,23 @@ button:active,
 
 #main>section.one {
 	background-color: #81918E;
-	background-image: url("../../images/banner.jpg");
+	background-image: url("../../images/banner1.jpg");
+
+
+}
+
+.container2 {
+	border: 1px solid #c5c3c3;
+	background-color: #d5dada;
+	opacity: 0.6;
+	border-radius: 3%;
+	padding: 10px;
+	text-shadow: 1px 1px 1px #000;
+}
+
+#main>section.onee {
+	background-color: #81918E;
+	background-image: url("../../images/bannerr2.jpg");
 }
 
 #main>section.two {
